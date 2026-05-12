@@ -8,13 +8,13 @@ By using PokerLedger, you agree to these Terms of Service.
 
 ## Service Description
 
-PokerLedger is a poker bankroll and session tracking application designed for informational and analytical purposes only.
+Bankrolly is a poker bankroll and session tracking application designed for informational and analytical purposes only.
 
 The app does not provide gambling services or facilitate real-money betting.
 
 ## Subscriptions
 
-PokerLedger Pro is offered as an auto-renewing subscription.
+Bankrolly Pro is offered as an auto-renewing subscription.
 
 Available plans may include:
 
@@ -41,13 +41,13 @@ You agree not to:
 
 ## Disclaimer
 
-PokerLedger is provided "as is" without warranties of any kind.
+Bankrolly is provided "as is" without warranties of any kind.
 
 The app is intended for tracking and analysis purposes only.
 
 ## Limitation of Liability
 
-To the maximum extent permitted by law, PokerLedger shall not be liable for any indirect, incidental, or consequential damages.
+To the maximum extent permitted by law, Bankrolly shall not be liable for any indirect, incidental, or consequential damages.
 
 ## Apple Standard EULA
 
@@ -57,7 +57,7 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 ## Contact
 
-pokerledger@fabulousio.com
+bankrolly@fabulousio.com
 
 ## Changes
 
