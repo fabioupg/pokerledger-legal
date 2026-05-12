@@ -1,2 +1,2 @@
-# pokerledger-legal
-Privacy Policy of my Pokerledger App
+# Bankrolly-legal
+Privacy Policy of my Bankrolly App
