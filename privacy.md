@@ -4,7 +4,7 @@ Last updated: May 12, 2026
 
 ## Introduction
 
-PokerLedger ("the App") respects your privacy. This Privacy Policy explains what information is collected and how it is used.
+Bankrolly ("the App") respects your privacy. This Privacy Policy explains what information is collected and how it is used.
 
 ## Information We Collect
 
@@ -19,7 +19,7 @@ Authentication is handled securely through Clerk.
 
 ### Subscription Information
 
-If you purchase PokerLedger Pro, Apple may share subscription status information with us to verify your active subscription.
+If you purchase Bankrolly Pro, Apple may share subscription status information with us to verify your active subscription.
 
 ### Poker Data
 
@@ -38,7 +38,7 @@ We use collected information to:
 
 ## Third-Party Services
 
-PokerLedger may use:
+Bankrolly may use:
 
 * Clerk for authentication
 * RevenueCat for subscription management
@@ -50,13 +50,13 @@ We do not sell personal information.
 
 ## Children's Privacy
 
-PokerLedger is not intended for children under 13 years old.
+Bankrolly is not intended for children under 13 years old.
 
 ## Contact
 
 For privacy-related questions, contact:
 
-pokerledger@fabulousio.com
+bankrolly@fabulousio.com
 
 ## Changes
 
