@@ -4,7 +4,7 @@ Last updated: May 12, 2026
 
 ## Acceptance of Terms
 
-By using PokerLedger, you agree to these Terms of Service.
+By using Bankrolly, you agree to these Terms of Service.
 
 ## Service Description
 
